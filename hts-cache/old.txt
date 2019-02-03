@@ -1,5 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-19:12:59	101/101	---M--	200	added ('OK')	text/plain	etag:%225c3f9d8f-65%22	https://web.archive.org/robots.txt		(from )
-19:13:01	16982/16982	---MCZ	200	added ('OK')	text/html	date:Sun,%2003%20Feb%202019%2000:12:47%20GMT	https://web.archive.org/web/20110912025054/smealum.net/dscraft/	C:/My%20Web%20Sites/DSCraft/web.archive.org/web/20110912025054/smealum.net/dscraft/index.html	(from )
-19:13:01	12462/12462	---MCZ	200	added ('OK')	application/x-javascript	date:Fri,%2011%20Jan%202019%2018:17:36%20GMT	http://archive.org/includes/analytics.js?v=cf34f82	C:/My%20Web%20Sites/DSCraft/archive.org/includes/analytics2a5b.js	(from https://web.archive.org/web/20110912025054/smealum.net/dscraft/)
-19:13:02	35/35	---M--	200	added ('OK')	image/gif	etag:%225702ee2b-23%22	http://analytics.archive.org/0.gif	C:/My%20Web%20Sites/DSCraft/analytics.archive.org/0.gif	(from http://archive.org/includes/analytics.js?v=cf34f82)
